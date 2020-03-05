@@ -1,0 +1,6 @@
+__pycache__
+assets/roi/original/*
+assets/roi/shifted/*
+.DS_Store
+
+medium
