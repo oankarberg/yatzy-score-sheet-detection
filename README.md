@@ -102,3 +102,7 @@ INPUT -> CONV3-32 -> RELU -> CONV3-32 -> RELU  -> CONV3-32 -> RELU -> POOL -> DR
 ```
 
 <img src="./models/figures/model_accuracy_conv32_conv32_conv32_maxpool_drop_dense_drop.png" width="500">
+
+
+# License
+Yatzy score sheet detection is <a href="https://github.com/oankarberg/yatzy-score-sheet-detection/blob/master/LICENSE" target="_blank">MIT licensed</a> .
