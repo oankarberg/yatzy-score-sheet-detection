@@ -9,7 +9,7 @@ verify_ssl = true
 tensorflow = "*"
 opencv-python-headless = "*"
 matplotlib = "*"
-opencv-python = "==4.1.2.30"
+opencv-python = "==4.2.0.32"
 
 [requires]
 python_version = "3.7"
